@@ -1,0 +1,10 @@
+namespace MethodOverriding
+{
+    public class Dog:Animal
+    {
+        public override void Display()
+        {
+            Console.WriteLine("Method of Dog class called");
+        }
+    }
+}

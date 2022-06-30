@@ -1,0 +1,12 @@
+D:\AdmissionApplication\AdmissionLibrary\bin\Debug\net6.0\AdmissionLibrary.deps.json
+D:\AdmissionApplication\AdmissionLibrary\bin\Debug\net6.0\AdmissionLibrary.dll
+D:\AdmissionApplication\AdmissionLibrary\bin\Debug\net6.0\AdmissionLibrary.pdb
+D:\AdmissionApplication\AdmissionLibrary\obj\Debug\net6.0\AdmissionLibrary.csproj.AssemblyReference.cache
+D:\AdmissionApplication\AdmissionLibrary\obj\Debug\net6.0\AdmissionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdmissionApplication\AdmissionLibrary\obj\Debug\net6.0\AdmissionLibrary.AssemblyInfoInputs.cache
+D:\AdmissionApplication\AdmissionLibrary\obj\Debug\net6.0\AdmissionLibrary.AssemblyInfo.cs
+D:\AdmissionApplication\AdmissionLibrary\obj\Debug\net6.0\AdmissionLibrary.csproj.CoreCompileInputs.cache
+D:\AdmissionApplication\AdmissionLibrary\obj\Debug\net6.0\AdmissionLibrary.dll
+D:\AdmissionApplication\AdmissionLibrary\obj\Debug\net6.0\refint\AdmissionLibrary.dll
+D:\AdmissionApplication\AdmissionLibrary\obj\Debug\net6.0\AdmissionLibrary.pdb
+D:\AdmissionApplication\AdmissionLibrary\obj\Debug\net6.0\ref\AdmissionLibrary.dll

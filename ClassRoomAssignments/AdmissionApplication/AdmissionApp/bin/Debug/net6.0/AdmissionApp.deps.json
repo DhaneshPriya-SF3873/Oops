@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AdmissionApp/1.0.0": {
+        "dependencies": {
+          "AdmissionLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AdmissionApp.dll": {}
+        }
+      },
+      "AdmissionLibrary/1.0.0": {
+        "runtime": {
+          "AdmissionLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdmissionApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdmissionLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
